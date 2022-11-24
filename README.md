@@ -1,5 +1,7 @@
 # Pewlett-Hackard-Analysis
 
+Main SQL file located in Queries
+
 ## Overview
 My client requested me to create an employee database using SQL to upgrade their current system of using CSV files in Excel and VBA. The purpose of this schema attached is to create useable database. In addition, looking at the database, we can now begin to query the data to determine the employees who fit specific conditions. In this case, we are looking to see how many people will be retiring soon.
 
